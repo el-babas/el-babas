@@ -1,4 +1,4 @@
-# Sobre mi
+# Sobre Mi
 Hola, mi nombre es Cristhian Apaza tengo +9 años de experiencia en el desarrollo de software corporativo a medida y soporte a sistemas externos, tengo la capacidad de adaptarme con facilidad a nuevos métodos de programación y aprendizaje de nuevos lenguajes, puedo trabajar en equipos o de manera individual.
 
 # Habilidades
