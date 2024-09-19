@@ -12,7 +12,7 @@ Hola, mi nombre es Cristhian Apaza tengo +9 años de experiencia en el desarroll
 </picture>
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=el-babas&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=el-babas&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=10)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=el-babas&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true\&rank_icon=github)<br/>
 
 # Redes Sociales
